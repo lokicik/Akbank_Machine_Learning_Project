@@ -1,5 +1,5 @@
+![Melbourne Housing Market Regression Machine Learning Project](https://github.com/lokicik/Akbank_Machine_Learning_Project/assets/65876412/18629d6d-a504-4882-b035-e801dbde4a76)
 # Akbank Machine Learning Bootcamp Project
-![iyi-topaz-enhance-sharpen-2](https://github.com/lokicik/Akbank_Machine_Learning_Project/assets/65876412/205cd2da-afea-4591-a8d6-7a017e03710e)
 
 The repo of Melbourne Housing Regression Machine Learning Project for Akbank Machine Learning Bootcamp.
 
